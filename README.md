@@ -1,5 +1,5 @@
 # demo-fluent-ui-mix-match-with-tailwind-css
-Simple demo to show you that we can use FluentUI 2 Web Components with Tailwind CSS.
+Simple demo to show you that we can use Microsoft FluentUI 2 Web Components with Tailwind CSS.
 
 ## Stacks
 - MS FluentUI 2 Web Components CDN version (just to quick show).
