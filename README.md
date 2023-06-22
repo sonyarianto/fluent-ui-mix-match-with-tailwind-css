@@ -2,9 +2,9 @@
 Simple demo to show you that we can use FluentUI 2 Web Components with Tailwind CSS.
 
 ## Stacks
-- MS FluentUI 2 Web Components
-- Tailwind CSS CDN version (just to quick show)
-- Tailwind CSS config with prefix set to `tw-`
+- MS FluentUI 2 Web Components CDN version (just to quick show).
+- Tailwind CSS CDN version (just to quick show).
+- Tailwind CSS config with prefix set to `tw-`.
 
 ## License
 
