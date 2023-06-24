@@ -10,6 +10,10 @@ Simple demo to show you that we can use Microsoft Fluent UI 2 Web Components wit
 - Fluent UI Web Components [https://learn.microsoft.com/en-us/fluent-ui/web-components/components/overview]
 - Tailwind CSS Play CDN [https://tailwindcss.com/docs/installation/play-cdn]
 
+## Demo
+
+https://fluent-ui-with-tailwind-css.vercel.app
+
 ## License
 
 MIT
